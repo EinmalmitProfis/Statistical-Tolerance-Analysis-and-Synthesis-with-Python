@@ -270,6 +270,11 @@ Plain text:
 
 > Grohmann, P.; Walter, M. S. J. (2021). Speeding up Statistical Tolerance Analysis to Real Time. *Applied Sciences*, 11(9), 4207. [https://doi.org/10.3390/app11094207](https://doi.org/10.3390/app11094207)
 
+Plain text (software):
+
+> Grohmann, P.; Kalvāns, R.; Walter, M. S. J. (2021). *Statistical Tolerance Analysis and Synthesis with Python* (Version 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.17723953
+
+
 BibTeX:
 
 ```bibtex
