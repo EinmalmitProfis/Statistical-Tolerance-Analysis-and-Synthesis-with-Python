@@ -1,4 +1,6 @@
-````markdown
+[![DOI](https://zenodo.org/badge/342926703.svg)](https://doi.org/10.5281/zenodo.17723952)
+
+
 # Statistical Tolerance Analysis and Synthesis with Python
 
 This repository contains the Python implementation accompanying
@@ -258,7 +260,7 @@ The article is **open access** under the **Creative Commons Attribution (CC BY 4
 The methodology and case study implemented in this repository build on the research of **Michael S. J. Walter** on statistical tolerance analysis and synthesis.
 The Python implementation provided here grew out of the joint work by **Peter Grohmann** and **Michael S. J. Walter** that is documented in the publication cited above.
 
-The code base in this repository was then developed further in Python by **Peter Grohmann** together with **Rolands Kalvans**, who co-designed and implemented the NumPy/CuPy backends and the associated optimization workflows.
+The code base in this repository was then developed further in Python by **Peter Grohmann** together with **Rolands Kalvāns**, who co-designed and implemented the NumPy/CuPy backends and the associated optimization workflows.
 
 ---
 
